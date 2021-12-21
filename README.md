@@ -15,7 +15,7 @@ I am trying to classify Chinese Text Files into specified categories(total 7 cat
 1. Total 6804 files and split into training / validation / testing datasets with ratio 0.75:0.25
   1.1 Samples of files(here, category : 2社會):
 ![image](https://user-images.githubusercontent.com/55430748/146853940-b5ec018c-f22d-4c7a-bac8-9374068032d6.png)
-  1.2 Categories of files :  '0體育', '1房產', '2社會', '3星座', '4科技', '5娛樂', '6時尚'
+  1.2 Categories of files :  ['0體育', '1房產', '2社會', '3星座', '4科技', '5娛樂', '6時尚']
   
 ## Parameters used:
 1. KNN --> n = 5
