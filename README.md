@@ -33,4 +33,4 @@ I am trying to classify Chinese Text Files into specified categories(total 7 cat
             
             For example , we get ['寧波', '志願', '願者', '志願者', '交通', '記者', '市民', '活動', '交通規則', '一邊'] TF-IDF  <br>
             result and this file is belong to 0體育.But we can found that none of the elements in features are related to this category! <br>
- ## In future,we may consider to modify a specified dictionary for each categories but not for common files.
+ #### In future,we may consider to modify a specified dictionary for each categories but not for common files.
